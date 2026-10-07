@@ -1,5 +1,0 @@
-path,pairs,converted_pairs,pv,purchases,pair_conv_pct,buys_per_100pv,lift_vs_direct,share_of_sales_pct
-1. Direct,1392686,13138,1495749.0,13329.0,0.94,0.89,1.0,35.6
-2. Via cart,94476,19908,169720.0,20276.0,21.07,11.95,22.3,54.0
-3. Via fav,68894,1783,104286.0,1809.0,2.59,1.73,2.7,4.8
-4. Fav + cart,6490,2064,19210.0,2111.0,31.8,10.99,33.7,5.6

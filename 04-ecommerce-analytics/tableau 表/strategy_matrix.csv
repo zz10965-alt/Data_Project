@@ -1,5 +1,0 @@
-value,intent_oof,users,actual_purchase_rate,lift_vs_avg,share_of_users,play,action
-High value,High intent,3684,0.7179695982627579,1.3434843589222631,0.3961290322580645,VIP retention,"Early access, member-only bundles; no deep discount needed"
-High value,Low intent,1300,0.4230769230769231,0.7916731156167776,0.13978494623655913,Win-back,Higher-value coupon plus open-cart reminder before the promo
-Low value,High intent,966,0.6262939958592133,1.1719384630765963,0.10387096774193548,First-order conversion,"First-order discount on carted items, push at 00:00 on promo day"
-Low value,Low intent,3350,0.3492537313432836,0.6535331391333072,0.3602150537634409,Low-cost nurture,Organic content and recommendations only; no paid spend
