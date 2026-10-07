@@ -1,0 +1,3 @@
+strategy,stratified_abs_diff_pp,ci95_pp,stratified_rel_lift,cmh_odds_ratio,cmh_p,breslow_day_p,positive_on_every_day
+Strategy 1,0.6342454446233751,"(0.576, 0.692)",0.4742725966311022,1.429667957824813,0.0,0.0,True
+Strategy 2,1.6556907786633335,"(1.581, 1.73)",1.23808341308801,2.4590841966184454,0.0,0.0,True

@@ -1,0 +1,12 @@
+kpi,value
+Records analyzed,2219999
+Control CTR,0.013397527099117987
+Strategy 1 CTR,0.01963133489806099
+Strategy 2 CTR,0.03069319501723465
+Strategy 2 pooled relative lift,1.290959726385275
+Strategy 2 pooled p-value,0.0
+Strategy 2 day-stratified relative lift,1.23808341308801
+Strategy 2 day-2 relative lift (planning case),0.38054349598078074
+Strategy 1 day-2 relative lift,0.03613065968113105
+Required records per arm for 5% MDE,631873
+Decision,Staged rollout of Strategy 2; stop Strategy 1
